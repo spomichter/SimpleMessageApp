@@ -9,16 +9,16 @@ You will also need to add additional libraries in the 'Link Binary With Librarie
 
 Add the following libraries:
 
-AudioToolbox.framework
-CFNetwork.framework
-CoreGraphics.framework
-CoreLocation.framework
-MobileCoreServices.framework
-QuartzCore.framework
-Security.framework
-StoreKit.framework
-SystemConfiguration.framework
-libz.dylib
-libsqlite3.dylib
-Accounts.framework
-Social.framework
+AudioToolbox.framework,
+CFNetwork.framework,
+CoreGraphics.framework,
+CoreLocation.framework,
+MobileCoreServices.framework,
+QuartzCore.framework,
+Security.framework,
+StoreKit.framework,
+SystemConfiguration.framework,
+libz.dylib,
+libsqlite3.dylib,
+Accounts.framework,
+Social.framework.
