@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>788317EA-D244-4E81-88A3-A00FE49842BD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ParseStarterProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>65E0435ED21FE75F04D71629907943244950C47A</key>
+		<string>github.com:spomichter/SimpleMessageApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ParseStarterProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>65E0435ED21FE75F04D71629907943244950C47A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:spomichter/SimpleMessageApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>65E0435ED21FE75F04D71629907943244950C47A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>65E0435ED21FE75F04D71629907943244950C47A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SimpleMessageApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
