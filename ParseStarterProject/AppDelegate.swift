@@ -16,9 +16,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         UINavigationBar.appearance().tintColor = UIColor.whiteColor()
         
         Parse.enableLocalDatastore()
-        
-        Parse.setApplicationId("AeMw4SpjA4vCraY1zB59yDAGQ1mpqUrL1qYyEMrr",
-            clientKey: "PdHNdEQnYwlkdoh2BLu88OWApaeCgxgfLfIp3Lhx")
+        /////////////////////////////////////////////////////////
+        //MUST ENTER PARSE APP ID AND CLIENT KEY FOR APP TO RUN VVV//
+        /////////////////////////////////////////////////////////
+        Parse.setApplicationId("[Enter Id here]",
+            clientKey: "[Enter client key here]")
         
         PFAnalytics.trackAppOpenedWithLaunchOptions(launchOptions)
         
